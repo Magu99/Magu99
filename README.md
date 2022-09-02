@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Magu99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Magu99/Magu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Matheus Wagner
+- 👀 I’m interested in generative art, webdev and data-science
+- 🌱 I’m currently learning 
+- 📫 How to reach me matheusgwagner99@gmail.com
