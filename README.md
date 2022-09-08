@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matheus Wagner
 - 👀 I’m interested in generative art, webdev and data-science
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Vue3
 - 📫 How to reach me matheusgwagner99@gmail.com
